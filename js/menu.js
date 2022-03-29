@@ -30,11 +30,11 @@ let menuData = [
         url: 'products.html'
     },
     {
-        title: '購物車',
+        title: '外帶專區',
         url: 'store.html'
     },
     {
-        title: 'TEST',
+        title: '聯絡我們',
         url: 'test.html'
     },
 ];
